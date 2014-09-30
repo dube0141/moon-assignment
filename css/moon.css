@@ -93,7 +93,7 @@ a:hover, a:active, a:focus{
 
 .header{
     min-height: 400px;
-    background-image: url(/img/moon-header.jpg); 
+    background-image: url(../img/moon-header.jpg);
     background-color: #000;
     background-position: right top;
     background-repeat: no-repeat;
